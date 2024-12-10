@@ -23,3 +23,20 @@ This Python script organizes files from a source directory into categorized fold
 1. Clone the repository:
    ```bash
    git clone https://github.com/buniatyann/File-Organizer.git
+2. Navigate to the project directory:
+   ```bash
+   cd file-organizer-script
+3. Run the script:
+   ```bash
+   python file_organizer.py
+4. Enter the source and target directories when prompted.
+
+## Requirements
+- Pyton 3.6 or above
+- `shutil`, `os` and `datetime` modules (pre installed in Python)
+
+## LICENSE
+   This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Constribution
+   Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
