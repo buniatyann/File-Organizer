@@ -36,7 +36,7 @@ This Python script organizes files from a source directory into categorized fold
 - `shutil`, `os` and `datetime` modules (pre installed in Python)
 
 ## LICENSE
-   This project is licensed under the MIT License. See the LICENSE file for details.
+   This repository is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Constribution
    Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
